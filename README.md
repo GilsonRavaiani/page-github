@@ -1,2 +1,2 @@
 # page-github
- Subindo minhas redes sociais para pelo GitHub Page
+ Subindo minhas redes sociais pelo GitHub Page
